@@ -1,0 +1,16 @@
+{"site_url":"http://localhost:8000",
+"site_title": "Авиакомпания S7",
+"description": "S7 - рейсы из Новосибирска",
+"keywords": "Авиакомпания S7",
+"name": "S7",
+"tag1":"Авиакомпания S7",
+"tag2":" - из Новосибирска",
+"sect1":"Главная",
+"sect2":"О нас",
+"sect3":"Рейсы",
+"sect4":"Блог",
+"telegram":"https://t.me/suckk9",
+"vk":"https://vk.com/suckk9",
+"Discord":"suck#0948",
+"city":"Новосибирск"
+}
